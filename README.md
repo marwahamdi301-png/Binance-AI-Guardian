@@ -1,2 +1,9 @@
-# Binance-AI-Guardian
-​An AI-powered web platform and bot for Binance portfolio management and investment scanning.
+​إمبراطورية بايا للذكاء الاصطناعي - Baya Empire V2
+​Binance AI Guardian X هي منصة تداول ذكية متكاملة مصممة لمراقبة وإدارة تداول العملات الرقمية على منصة Binance Spot باستخدام واجهة Streamlit المتطورة ومحرك تحليل تقني يعتمد على الذكاء الاصطناعي.
+​✨ المميزات الرئيسية (Key Features)
+​AI Decision Engine: محرك ذكاء اصطناعي لتحليل المؤشرات الفنية (RSI, MACD, ATR) وتوليد إشارات بيع وشراء بدقة عالية.
+​Investment Radar: رادار ذكي يمسح السوق بحثاً عن أفضل الفرص الاستثمارية في الوقت الفعلي.
+​Risk Manager: نظام إدارة مخاطر متطور يحسب حجم الصفقة، وقف الخسارة (Stop Loss)، وأهداف الربح (Take Profit) آلياً.
+​Kill Switch: زر الطوارئ لإيقاف كافة العمليات بضغطة واحدة لحماية رأس المال.
+​Paper Trading Mode: وضع التداول الوهمي لاختبار الاستراتيجيات بأمان قبل الانتقال للتداول الحقيقي.
+​🚀 طريقة التشغيل (Installation & Setup)
