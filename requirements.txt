@@ -1,5 +1,4 @@
-ccxt
-pyTelegramBotAPI
-pandas
-python-dotenv
 streamlit
+pandas
+requests
+plotly
